@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: rgb(0, 132, 255);
+    height: 150px;
+    background-image: url("../img/pattern.png"); 
+    background-size:contain;
+    background-position: center;
+    
+}
+
+#logo{
+    width: 20em;
+    
+}
+
+
+    
+    
+
+   
+    
+
+
+
+

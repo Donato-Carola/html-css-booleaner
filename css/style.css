@@ -22,9 +22,18 @@ header {
   color: aqua;
 }
 
+table{
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+
+
 thead {
   background-color: aqua;
   color: white;
+
+ 
 }
 
 .background-td {

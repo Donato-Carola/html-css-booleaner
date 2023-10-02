@@ -23,6 +23,12 @@ header {
 
 #colore-sottotitolo{
     color: rgba(128, 128, 128, 0.808);
+    margin-bottom: 15px;
+    
+}
+
+.margini{
+    margin: 0;
 }
 
 #booleaner {
